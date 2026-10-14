@@ -1,0 +1,5 @@
+name,ships,fixed_per_item,platform_pct,payment_pct,payment_fixed
+Online marketplace (example),yes,0.20,6.5,4.0,0.30
+Own web shop (example),yes,0,0,2.9,0.30
+Market stall - cash,no,0,0,0,0
+Market stall - card,no,0,0,1.7,0
